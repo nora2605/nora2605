@@ -1,4 +1,4 @@
-[![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=nora2605&langs_count=10&layout=donut-vertical&size_weight=0.3&count_weight=0.8&theme=radical)]()
+[![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=nora2605&hide=CSS,smalltalk,HTML&langs_count=10&layout=donut-vertical&size_weight=0.2&count_weight=0.8&theme=radical)]()
 
 - 👋 Hi, I’m @nora2605
 - 👀 I’m interested in a lot of things that aren't able to be listed here
