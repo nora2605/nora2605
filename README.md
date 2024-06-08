@@ -14,4 +14,4 @@ border-width: 180px 224px 180px 224px;
 -webkit-border-image: url(https://raw.githubusercontent.com/nora2605/nora2605/main/border.png) 180 224 180 224 round round;
 -o-border-image: url(https://raw.githubusercontent.com/nora2605/nora2605/main/border.png) 180 224 180 224 round round;
 border-image: url(https://raw.githubusercontent.com/nora2605/nora2605/main/border.png) 180 224 180 224 round round;
-background-attachment: fixed !important;
+background-attachment: fixed !important;]{x0000}$}
