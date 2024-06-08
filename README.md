@@ -8,10 +8,5 @@
 
 ```math
 \ce{$\unicode[goombafont; color:white; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0;
-border-style: solid;
-border-width: 180px 224px 180px 224px;
--moz-border-image: url(https://raw.githubusercontent.com/nora2605/nora2605/main/border.png) 180 224 180 224 round round;
--webkit-border-image: url(https://raw.githubusercontent.com/nora2605/nora2605/main/border.png) 180 224 180 224 round round;
--o-border-image: url(https://raw.githubusercontent.com/nora2605/nora2605/main/border.png) 180 224 180 224 round round;
-border-image: url(https://raw.githubusercontent.com/nora2605/nora2605/main/border.png) 180 224 180 224 round round;
+background-image: url(https://raw.githubusercontent.com/nora2605/nora2605/main/border.png);
 background-attachment: fixed !important;]{x0000}$}
