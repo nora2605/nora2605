@@ -7,7 +7,7 @@
 - 🩷 My website: [luemir.xyz](https://luemir.xyz/)
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0;
+\ce{$\unicode[goombafont; color:white; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1.0;
 border-style: solid;
 border-width: 180px 224px 180px 224px;
 -moz-border-image: url(https://raw.githubusercontent.com/nora2605/nora2605/main/border.png) 180 224 180 224 round round;
