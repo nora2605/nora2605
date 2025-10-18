@@ -4,4 +4,4 @@
 - 🩵 Currently working on my degree and some gamedev ig
 - 🩷 My favorite Frameworks: .NET, Solidjs, Tailwind, CLAP, LLVM
 - 🩵 You can reach me on discord: @nora2605 or twitter: @nora26056
-- 🩷 My website: [luemir.xyz](https://nojufe.de/)
+- 🩷 My website: [nojufe.de](https://nojufe.de/)
